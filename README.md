@@ -28,4 +28,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn deploy`
 
 First, It creates the build files through `yarn build` then launches the node.js server through
-`yarn start`. It will run in eb using `Procfile`.
+`yarn start`. It will run in eb using `Procfile`
