@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ceffb58d.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.818bd15d.js",
+    "static/css/2.b99653bd.chunk.css": "/static/css/2.b99653bd.chunk.css",
+    "static/js/2.1a69275a.chunk.js": "/static/js/2.1a69275a.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.1a69275a.chunk.js.LICENSE.txt": "/static/js/2.1a69275a.chunk.js.LICENSE.txt",
+    "static/media/delete.69e007d2.svg": "/static/media/delete.69e007d2.svg",
+    "static/media/dropdown.3d5a4e5b.svg": "/static/media/dropdown.3d5a4e5b.svg",
+    "static/media/edit.03405467.svg": "/static/media/edit.03405467.svg",
+    "static/media/logo.9dc48d60.png": "/static/media/logo.9dc48d60.png",
+    "static/media/plant-pots.26731768.jpg": "/static/media/plant-pots.26731768.jpg",
+    "static/media/rocket.e84268f0.svg": "/static/media/rocket.e84268f0.svg",
+    "static/media/sbs-logo.35bcb2a8.png": "/static/media/sbs-logo.35bcb2a8.png",
+    "static/media/view.802109e9.svg": "/static/media/view.802109e9.svg",
+    "static/media/vision.9082871b.png": "/static/media/vision.9082871b.png",
+    "static/media/watered-plants.39756063.jpg": "/static/media/watered-plants.39756063.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.818bd15d.js",
+    "static/css/2.b99653bd.chunk.css",
+    "static/js/2.1a69275a.chunk.js",
+    "static/js/main.ceffb58d.chunk.js"
+  ]
+}
