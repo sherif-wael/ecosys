@@ -1,9 +1,9 @@
-import dashboard from "static/dashboard.png";
-import products from "static/products.png";
-import schedule from "static/schedule.png";
-import requests from "static/requests.png";
-import community from "static/community.png";
-import guidebook from "static/guidebook.png";
+import dashboard from "static/dashboard.svg";
+import products from "static/products.svg";
+import schedule from "static/schedule.svg";
+import requests from "static/requests.svg";
+import community from "static/community.svg";
+import guidebook from "static/guidebook.svg";
 import { FaRegEnvelope as Envelope } from "react-icons/fa";
 
 export const SIDEBAR_LINKS = [

@@ -5,7 +5,7 @@ import { Link, useLocation } from "react-router-dom";
 import { SIDEBAR_LINKS } from "constants/navigation";
 import Text from "./Text";
 import useAuth from "hooks/useAuth";
-import logoutIcon from "static/logout.png";
+import logoutIcon from "static/logout.svg";
 import { useTranslation } from "react-i18next";
 
 function Sidebar(){
