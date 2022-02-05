@@ -1,7 +1,7 @@
 import axios from "axios";
 import AppError from "./appError";
 
-const ROOT_URL = process.env.REACT_APP_BASE_URL;
+const ROOT_URL = process.env.REACT_APP_BASE_URL || "http://eco-sys-staging.eba-s6mcp2rd.eu-south-1.elasticbeanstalk.com";
 
 console.log(process.env.REACT_APP_BASE_URL);
 
